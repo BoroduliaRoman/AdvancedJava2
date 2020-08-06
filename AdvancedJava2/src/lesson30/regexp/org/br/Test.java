@@ -3,7 +3,7 @@ package lesson30.regexp.org.br;
 public class Test {
 
 	public static void main(String[] args) {
-		/*
+		/**
 		 *  \\d - одна цифра
 		 *  \\w - одна буква английская буква
 		 *  \\w = [a-zA-Z]
